@@ -1,0 +1,38 @@
+DataFITS A Heterogeneous Data Fusion Framework for Traffic and Incident Prediction
+
+Intelligent transportation systems, heterogeneous data fusion, traffic estimation, incident classification.
+
+IEEE Transactions on Intelligent Transportation Systems,Issue Date:12.June.2023
+
+
+DataFITS
+
+datafits
+
+
+0 - Minor Injury
+
+1 - Death
+
+2 - Greviously Injured
+
+
+traffic_incident_prediction
+
+
+
+Fid	
+lat	
+lng	
+road_desc	
+zip	
+timeStamp	
+twp	
+addr	
+outcome_of_incident	
+traffic_status	
+traffic_occured_by	
+area_accident_occured
+Prediction
+
+
